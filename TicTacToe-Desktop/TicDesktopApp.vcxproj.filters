@@ -45,13 +45,7 @@
     <Image Include="icon1.ico">
       <Filter>Resource Files</Filter>
     </Image>
-    <Image Include="C:\Users\Sebastian\Downloads\x-26.ico">
-      <Filter>Resource Files</Filter>
-    </Image>
-    <Image Include="C:\Users\Sebastian\Downloads\o-26.ico">
-      <Filter>Resource Files</Filter>
-    </Image>
-    <Image Include="C:\Users\Sebastian\Downloads\TicTacToeIcon.ico">
+    <Image Include="x.ico">
       <Filter>Resource Files</Filter>
     </Image>
   </ItemGroup>
