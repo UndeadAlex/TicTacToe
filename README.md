@@ -11,3 +11,4 @@ I think i got a A for this assignment, but i cant remember.
 ## Images
 
 ![LookItsAThing](Image1.png)
+![AnotherThing](Image2.png)
