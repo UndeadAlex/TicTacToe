@@ -1,5 +1,13 @@
 # TicTacToe
 
-This is a simplistic GUI Tic Tac Toe, developed completely from scratch at 2am xD
+Erm. Hi?
 
-To this day im not sure why i went overboard im not sure it got me extra marks, however it was a fun learning experiance.
+## Description
+
+This originally started out as a console TicTacToe application for a university assignment, then as if a bolt of energy hit me i decided to make it have a proper GUI. So yea, thats all this project is, a simple TicTacToe game using the standard C++ Window VS Project Template.
+
+I think i got a A for this assignment, but i cant remember.
+
+## Images
+
+![LookItsAThing](Image1.png)
